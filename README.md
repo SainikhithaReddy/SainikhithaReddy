@@ -43,6 +43,27 @@ Data Analyst| Python | SQL | Machine Learning
 
   ---
 
+📉 Github Stats
+
+📊 GitHub Stats
+
+![Sainikhitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SainikhithaReddy&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SainikhithaReddy&layout=compact&theme=default)
+
+---
+
+🔥 GitHub Activity
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SainikhithaReddy&theme=default)
+
+---
+
+📈 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SainikhithaReddy&theme=github-light)
+
+
 🌐 Connect With Me
 
 📧 Email: **sainikhithareddyb@gmail.com**  
