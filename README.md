@@ -2,6 +2,7 @@
 ---
 Data Analyst| Python | SQL | Machine Learning
 
+---
 
 🚀 About Me
 
