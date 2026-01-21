@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/e7512bd0-cad1-4c76-8f13-2829e65af4ef" />
+
 👋 Hi, I'm Bongaram Sainikhitha Reddy
 ---
 Data Analyst| Python | SQL | Machine Learning
