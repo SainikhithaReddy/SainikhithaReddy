@@ -41,9 +41,7 @@ Data Analyst| Python | SQL | Machine Learning
 - Generated nutritional insights and wellness recommendations
 - Strengthened backend logic and data handling skills
 
-  ---
-
-📉 Github Stats
+---
 
 📊 GitHub Stats
 
@@ -53,16 +51,11 @@ Data Analyst| Python | SQL | Machine Learning
 
 ---
 
-🔥 GitHub Activity
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SainikhithaReddy&theme=default)
-
----
-
 📈 Contribution Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SainikhithaReddy&theme=github-light)
 
+---
 
 🌐 Connect With Me
 
