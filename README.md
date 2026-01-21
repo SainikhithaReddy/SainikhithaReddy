@@ -1,16 +1,49 @@
-## Hi there 👋
+👋 Hi, I'm Bongaram Sainikhitha Reddy
 
-<!--
-**SainikhithaReddy/SainikhithaReddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst| Python | SQL | Machine Learning
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me
+
+🎓 Final-year B.Tech CSE (Data Science) student  
+📊 Passionate about turning raw data into meaningful insights using analysis and visualization  
+💻 Interested in building clean, scalable, and user-focused software solutions  
+📍 Based in Hyderabad, India  
+🔍 Actively seeking Entry-Level Software Engineer / Data Analyst opportunities
+
+
+🛠 Tech Stack & Tools
+
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![SQL](https://img.shields.io/badge/SQL-darkblue?logo=mysql)
+![HTML](https://img.shields.io/badge/HTML-orange?logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?logo=css3)
+![NumPy](https://img.shields.io/badge/NumPy-lightblue?logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-purple?logo=pandas)
+![Power BI](https://img.shields.io/badge/PowerBI-yellow?logo=powerbi)
+![Excel](https://img.shields.io/badge/Excel-green?logo=microsoft-excel)
+![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
+![Jupyter](https://img.shields.io/badge/Jupyter-orange?logo=jupyter)
+
+
+📌 Projects
+
+☀ Smart Solar Management System
+- Python-based system for monitoring solar panel performance
+- Analyzed real-time sensor data to improve energy efficiency
+- Reduced manual monitoring through automation
+
+🥗 Healthy Living Insurance System
+- Food calorie estimation using image processing / QR data
+- Generated nutritional insights and wellness recommendations
+- Strengthened backend logic and data handling skills
+
+🌐 Connect With Me
+
+📧 Email: **sainikhithareddyb@gmail.com**  
+🔗 LinkedIn: https://linkedin.com/in/sainikhitha-reddy-b-260a22311  
+💻 GitHub: https://github.com/SainikhithaReddy  
+
+
+✨ *Always learning, building, and growing through real-world projects.*
+
