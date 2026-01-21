@@ -12,6 +12,7 @@ Data Analyst| Python | SQL | Machine Learning
 📍 Based in Hyderabad, India  
 🔍 Actively seeking Entry-Level Software Engineer / Data Analyst opportunities
 
+---
 
 🛠 Tech Stack & Tools
 
@@ -26,6 +27,7 @@ Data Analyst| Python | SQL | Machine Learning
 ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
 ![Jupyter](https://img.shields.io/badge/Jupyter-orange?logo=jupyter)
 
+---
 
 📌 Projects
 
@@ -39,11 +41,15 @@ Data Analyst| Python | SQL | Machine Learning
 - Generated nutritional insights and wellness recommendations
 - Strengthened backend logic and data handling skills
 
+  ---
+
 🌐 Connect With Me
 
 📧 Email: **sainikhithareddyb@gmail.com**  
 🔗 LinkedIn: https://linkedin.com/in/sainikhitha-reddy-b-260a22311  
 💻 GitHub: https://github.com/SainikhithaReddy  
+
+---
 
 
 ✨ *Always learning, building, and growing through real-world projects.*
